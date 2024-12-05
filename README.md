@@ -170,4 +170,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to copy and paste this directly into your GitHub repository! Let me know if you need further adjustments.
+
